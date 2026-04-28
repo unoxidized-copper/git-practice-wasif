@@ -1,5 +1,5 @@
-Project Title : Basic Calculator
+# Basic Calculator
 
-Contributors Name : Wasif
+**Contributor:** Wasif
 
-What this project does : Does basic arithmatic operations
+A simple Python project that performs basic arithmetic operations (addition and subtraction).
